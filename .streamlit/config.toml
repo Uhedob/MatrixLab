@@ -9,3 +9,10 @@ backgroundColor = "#f8fafc"
 secondaryBackgroundColor = "#e2e8f0"
 textColor = "#1e293b"
 font = "sans serif"
+
+[theme]
+primaryColor = "#2563eb"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
